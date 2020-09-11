@@ -20,7 +20,6 @@ body {
 	background: linear-gradient(to right, #155799, #159957); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	padding: 20px;
 	color: white;
-	outline: none;
 	font-size: 30px;
 }
 
