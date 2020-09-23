@@ -1,0 +1,7 @@
+file: glitch.gif
+
+name: glitch
+
+extension: *.gif
+
+type: animated picture
